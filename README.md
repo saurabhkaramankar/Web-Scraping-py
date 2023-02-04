@@ -14,3 +14,13 @@ Documentations-(refer):-
 https://beautiful-soup-4.readthedocs.io/en/latest/
 https://pypi.org/project/beautifulsoup4/
 https://www.tutorialspoint.com/beautiful_soup/beautiful_soup_quick_guide.htm
+
+
+#Web Scraping Links 👎
+ https://en.wikipedia.org/wiki/Web_scraping
+ 
+ 
+ https://www.geeksforgeeks.org/what-is-web-scraping-and-how-to-use-it/
+ 
+ 
+ https://www.parsehub.com/blog/what-is-web-scraping/
